@@ -3,9 +3,9 @@
 
 ## Autores:
 
- Andrés Felipe Mejía Perdomo 
- Juan Camilo Garavito Lozada 
- Jerson Julian Cañon Castillo
+ -Andrés Felipe Mejía Perdomo 
+ -Juan Camilo Garavito Lozada 
+ -Jerson Julian Cañon Castillo
 
 ## Objetivo
 Predecir la letra del abecedario en lenguaje de señas colombiano segun la imagen
